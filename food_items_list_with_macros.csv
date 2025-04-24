@@ -1,0 +1,52 @@
+brand,product_name,base_price,product_size,price_per_unit,unit_price_value,unit_measure,item,protein,carbs,fats
+no name,"eggs, large",4.16,12 ea,$0.35/1ea,0.35,1ea,eggs,13g/2ea,1g/2ea,11g/2ea
+no name,grade a large brown eggs,5.37,12 ea,$0.45/1ea,0.45,1ea,eggs,7g/2ea,1g/2ea,6g/2ea
+burnbrae farms,naturegg simply egg whites,5.39,1 ea,$1.08/100ml,1.08,100ml,eggs,7g/96ml,1g/96ml,0/96ml
+burnbrae farms,"naturegg nest laid white eggs, large",5.69,12 ea,$0.47/1ea,0.47,1ea,eggs,13g/2ea,1g/2ea,11g/2ea
+pc organics,free range large brown eggs,7.99,12 ea,$0.67/1ea,0.67,1ea,eggs,13g/2ea,1g/2ea,11/2ea
+pc organics,"free-range large brown eggs, club pack (30 count)",16.99,30 ea,$0.57/1ea,0.57,1ea,eggs,13g/2ea,1g/2ea,11/2ea
+zabiha halal,chicken sausages,6.99,375 g,$1.86/100g,1.86,100g,chicken,10g/75g,1g/75g,13g/75g
+sufra,extra lean ground chicken,8,454 g,$1.76/100g,1.76,100g,chicken,18g/100g,0g/100g,7g/100g
+no name,"club pack chicken thighs, bone-in",17.99,2 kg,$0.90/100g,0.9,100g,chicken,18g/113g,0g/113g,22g/113g
+no name,"club pack chicken wings, split",26.99,2 kg,$1.35/100g,1.35,100g,chicken,21g/113g,0g/113g,18g/113g
+no name,"club pack chicken breasts, boneless skinless",39.99,2 kg,$2.00/100g,2,100g,chicken,26g/113g,0g/113g,2g/113g
+president's choice,free from lean ground pork,5.49,454 g,$1.21/100g,1.21,100g,pork,18g/113g,0g/113g,32g/113g
+,pork loin half boneless frozen,15.57,$6.61/1kg,$3.00/1lb,3,1lb,pork,21g/112g,0g/112g,9g/112g
+,grass fed lean ground beef,8,450 g,$1.78/100g,1.78,100g,beef,19g/100g,0g/100g,12g/100g
+president's choice,free from lean ground beef,9,454 g,$1.98/100g,1.98,100g,beef,20g/100g,0g/100g,13g/100g
+,"grass fed lean ground beef, 2-pack",15,900 g,$1.67/100g,1.67,100g,beef,19g/100g,0g/100g,12g/100g
+president's choice,unsalted peanuts,6.49,700 g,$0.93/100g,0.93,100g,peanuts,12g/50g,11g/50g,25g/50g
+president's choice,raw california almonds,7,400 g,$1.75/100g,1.75,100g,almonds,6g/30g,6g/30g,16g/30g
+president's choice,unsalted roasted cashews,5.79,200 g,$2.90/100g,2.9,100g,cashew,8g/50g,15g/50g,24g/50g
+pc organics,whole raw cashews 200 g,6.5,200 g,$3.25/100g,3.25,100g,cashew,5g/30g,9g/30g,13g/30g
+president's choice,raw cashews,16,680 g,$2.35/100g,2.35,100g,cashew,5g/30g,8g/30g,14g/30g
+pc organics,"whole raw cashews, 1.13kg",27,1.13 kg,$2.39/100g,2.39,100g,cashew,5g/30g,9g/30g,13g/30g
+farmer's market,unsalted roasted sunflower seeds,5,400 g,$1.25/100g,1.25,100g,sunflower seeds,8g/50g,8g/50g,32g/50g
+president's choice,raw sunflower seeds,5,350 g,$1.43/100g,1.43,100g,sunflower seeds,6g/30g,6g/30g,15g/30g
+goldseal,wild pacific pink salmon,3.99,213 g,$2.11/100g,2.11,100g,salmon,19g/55g,0g/55g,6g/55g
+no name,sustainably sourced wild pacific pink salmon,3.99,213 g,$1.87/100g,1.87,100g,salmon,13g/55g,0g/55g,3g/55g
+president's choice,"wild pacific pink salmon, sustainably sourced ",4.29,170 g,$2.52/100g,2.52,100g,salmon,12g/55g,0g/55g,1g/55g
+silk,"almond milk alternative, zero sugar original, dairy-free",4.79,1.89 l,$0.25/100ml,0.25,100ml,milk,1g/250ml,1g/250ml,3g/250ml
+silk,"oat milk alternative, unsweetened, plant based, dairy free",4.79,1.75 l,$0.27/100ml,0.27,100ml,milk,1g/250ml,8g/250ml,4.5g/250ml
+dairyland,2% regular milk,5.63,4 l,$0.14/100ml,0.14,100ml,milk,9g/250ml,12g/250ml,5g/250ml
+dairyland,3.25% milk,5.98,4 l,$0.15/100ml,0.15,100ml,milk,8g/250ml,12g/250ml,8g/250ml
+dairyland,0% regular milk,5.62,4 l,$0.14/100ml,0.14,100ml,milk,9g/250ml,13g/250ml,0g/250ml
+dairyland,1% regular milk,5.63,4 l,$0.14/100ml,0.14,100ml,milk,9g/250ml,12g/250ml,2.5g/250ml
+activia,"yogurt with probiotics lactose free, vanilla, strawberry, raspberry, cherry flavour",5.5,12x100.0 g,$0.46/100g,0.46,100g,yogurt,4g/100g,12g/100g,3g/100g
+oikos,"lactose free greek yogurt, plain, fat free, no added sugar, 0% m.f.",7.49,750 g,$1.00/100g,1,100g,yogurt,17g/175g,6g/175g,0g/175g
+olympic,"organic yogurt vanilla 3%, 1.75kg",13.49,1.75 kg,$0.77/100g,0.77,100g,yogurt,6g/175g,23g/175g,5g/175g
+oikos,"fat free greek yogurt, high protein, plain, 0% m.f.",7.49,650 g,$1.15/100g,1.15,100g,yogurt,19g/175g,6g/175g,0g/175g
+pc blue menu,green lentils,3.79,900 g,$0.42/100g,0.42,100g,lentil,8g/35g,22g/35g,0g/35g
+suraj,red split lentils,5.29,1.8 kg,$0.29/100g,0.29,100g,lentil,9g/35g,22g/35g,0.5g/35g
+suraj,chickpeas,5.49,1.8 kg,$0.31/100g,0.31,100g,chickpeas,7g/35g,21g/35g,2g/35g
+tamam,pinto beans,1.29,540 ml,$0.28/100ml,0.28,100ml,beans,7g/125ml,18g/125ml,0.5g/250ml
+suraj,light red kidney beans,5.49,1.8 kg,$0.31/100g,0.31,100g,beans,8g/35g,22g/35g,0g/35g
+sunrise,"tofu, medium firm",2.47,454 g,$0.54/100g,0.54,100g,tofu,7g/85g,2g/85g,4g/85g
+sunrise,premium soft tofu,2.79,530 g,$0.53/100g,0.53,100g,tofu,5g/85g,1g/85g,2.5g/85g
+lal qilla,premium dehraduni basmati rice,15.99,4.54 kg,$0.35/100g,0.35,100g,rice,4g/45g,35g/45g,0.5g/45g
+no name,extra fancy long grain white rice club size,17,8 kg,$0.21/100g,0.21,100g,rice,3g/45g,36g/45g,0g/35g
+gogo quinoa,organic royal tri-color quinoa,8.49,500 g,$1.70/100g,1.7,100g,quinoa,6g/45g,29g/45g,2.5g/45g
+gogo quinoa,organic royal tri-color quinoa,21.99,1800 g,$1.22/100g,1.22,100g,quinoa,6g/45g,29g/45g,2.5g/45g
+no name,one minute 100% whole grain oats,3,900 g,$0.33/100g,0.33,100g,oats,5g/40g,28g/40g,2.5g/40g
+dan d pak,quick oats,3.49,1000 g,$0.35/100g,0.35,100g,oats,7g39g,26g/39g,2.5g/39g
+quaker,quick oats,3.59,1 kg,$0.40/100g,0.4,100g,oats,7g/39g,26/39g,2.5g/39g
