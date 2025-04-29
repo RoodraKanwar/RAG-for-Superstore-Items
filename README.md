@@ -41,10 +41,15 @@ A Streamlit web app where users can:
 ## File Descriptions
 
 food_items_list_cleaned.csv: Final cleaned product list with macros.
+
 macros.py: Logic for calculating macros and matching product names.
+
 Cleaning_Dataset.ipynb: Notebook for initial data prep.
+
 Superstore_data_cleaning_transformation.ipynb: More advanced transformations.
+
 requirements.txt: All necessary packages.
+
 README.md: You're reading it 
 
 ## Future Improvements
