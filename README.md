@@ -1,4 +1,4 @@
-# RAG for Superstore Items
+# Context-Aware Meal Planning System using RAG and Gemini with Macro Tracking
 
 ## Data Collection
  Scrape superstore for the dataset.
