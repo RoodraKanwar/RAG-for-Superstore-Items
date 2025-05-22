@@ -52,6 +52,9 @@ A Streamlit web app where users can:
 
 `README.md`: You're reading it 
 
+## Working Video
+https://github.com/user-attachments/assets/7b14dcb4-7614-43a6-b45f-f4c262468276
+
 ## Future Improvements
 
 - Adding essential vitamins and minerals.
