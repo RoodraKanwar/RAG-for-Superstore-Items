@@ -1,4 +1,5 @@
 # Context-Aware Meal Planning System using RAG and Gemini with Macro Tracking
+A lot of times, I find myself confused about what to buy when I’m trying to hit my macros for the week. It gets even trickier when I’m short on time and working with a limited budget. I’ve always thought it’d be so much easier if I had a curated list based on the foods I actually enjoy eating and if I could just automate my weekly grocery run. While taking Google’s Gen AI course, I figured it was the perfect opportunity to test out this idea as a proof of concept, and it turned out to be a solid starting point.
 
 ## Data Collection
  Scrape superstore for the dataset.
